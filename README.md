@@ -1,6 +1,4 @@
 # Wine Prediction Using Deep Learning
-
-## Overview
 This project uses a deep learning model to predict the type of wine based on its chemical properties. It demonstrates how machine learning can classify wines into different types using their chemical attributes.
 
 ## Features
